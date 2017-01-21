@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Nova Launcher's Styles-->
+
+<resources>
+
+<style name="Nova.Dark" parent="@style/Nova.Base.Dark">
+        <item name="android:windowBackground">@color/windowBackgroundNight</item>
+        <!--item name="android:textSelectHandleLeft">@drawable/pois_text_select_handle_left_material</item>
+        <item name="android:textSelectHandleRight">@drawable/pois_text_select_handle_right_material</item>
+        <item name="android:textSelectHandle">@drawable/pois_text_select_handle_middle_material</item-->
+        <!--item name="android:editTextBackground">@drawable/abc_edit_text_material</item-->
+        <!--item name="android:textCursorDrawable">@drawable/pois_text_cursor_material</item-->
+        <!--item name="md_dark_theme">@bool/md_dark_theme</item-->
+        <item name="preferenceactivity_cardIdleBackground">@*common:color/bl</item>
+        <!--item name="toolbarStyle">@style/ToolBar</item-->
+        <item name="colorPrimary">@*common:color/bl</item>
+        <item name="colorPrimaryDark">@*common:color/bl</item>
+        <item name="colorAccent">@*common:color/sk</item>
+        <!--item name="switchStyle">@style/MatCompat.Widget.SwitchStyle</item-->
+        <item name="colorEdgeEffect">@*common:color/sk</item>
+    </style>
+		
+	<style name="Nova.Base.Dark" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:colorEdgeEffect">@*common:color/sk</item>
+        <!--item name="android:listChoiceBackgroundIndicator">?listChoiceBackgroundIndicator</item-->
+        <!--item name="md_medium_font">Roboto-Medium.ttf</item-->
+    </style>
+
+	 <style name="Theme.AppCompat.NoActionBar" parent="@style/Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+	<style name="Theme.AppCompat" parent="@style/Base.Theme.AppCompat" />
+	
+	<style name="Base.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat" />
+	
+	<style name="Base.V7.Theme.AppCompat" parent="@style/Platform.AppCompat">
+        <item name="android:panelBackground">@*common:colot/tr</item>
+        <item name="isLightTheme">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBarOverlay">false</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowFixedWidthMajor">0.0dip</item>
+        <item name="windowFixedHeightMinor">0.0dip</item>
+        <item name="windowFixedWidthMinor">0.0dip</item>
+        <item name="windowFixedHeightMajor">0.0dip</item>
+        <item name="actionBarPopupTheme">@null</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarItemBackground">@*common:color/bl</item>
+        <item name="actionMenuTextColor">@*common:color/wh</item>
+        <item name="actionModeBackground">@*common:color/bl</item>
+        <item name="actionModeSplitBackground">@*common:color/bl</item>
+        <item name="listDividerAlertDialog">@null</item>
+        <item name="editTextColor">@*common:color/wh</item>
+        <item name="editTextBackground">@*common:color/bl</item>
+        <item name="textColorSearchUrl">@*common:color/sk</item>
+        <item name="colorPrimary">@*common:color/bl</item>
+        <item name="colorPrimaryDark">@*common:color/bl</item>
+        <item name="colorAccent">@*common:color/sk</item>
+        <item name="colorControlNormal">@*common:color/sk</item>
+        <item name="colorControlActivated">@*common:color/sk</item>
+        <item name="colorControlHighlight">@*common:color/sk</item>
+        <item name="colorButtonNormal">@*common:color/bl</item>
+        <item name="colorSwitchThumbNormal">@*common:color/sk</item>
+        <item name="controlBackground">@*common:color/bl</item>
+        <item name="colorBackgroundFloating">@*common:color/bl</item>
+        <item name="alertDialogCenterButtons">false</item>
+        <item name="textColorAlertDialogListItem">@*common:color/re</item>
+        <item name="android:textColor">@*common:color/wh</item>
+        <item name="android:textColorPrimary">@*common:color/wh</item>
+        <item name="android:textColorPrimaryDisableOnly">@*common:color/gr</item>
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:textColorPrimaryInverse">@*common:color/wh</item>
+        <item name="android:textColorSecondaryInverse">@*common:color/wh</item>
+    </style>
+
+
+</resources>

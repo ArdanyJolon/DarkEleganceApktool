@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeChooserTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:popupMenuStyle">@style/popupMenuStyle</item>
+        <item name="android:textAppearanceLargePopupMenu">?style/TextAppearance.Widget.PopupMenu.Large</item>
+        <item name="android:textAppearanceSmallPopupMenu">?style/TextAppearance.Widget.PopupMenu.Small</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:colorPrimary">@*common:color/bl</item>
+        <item name="android:colorPrimaryDark">@*common:color/bl</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+        <item name="android:statusBarColor">@*common:color/tr</item>
+    </style>
+    <style name="popupMenuStyle" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">@*common:color/bl</item>
+    </style>
+
+    <style name="AppTheme" parent="@android:style/Theme.Material.Settings">
+        <item name="android:windowBackground">@*common:color/bl</item>
+        <!--item name="android:actionOverflowButtonStyle">@style/ActionBarOverflow</item-->
+        <item name="android:colorPrimary">@*common:color/bl</item>
+        <item name="android:colorPrimaryDark">@*common:color/bl</item>
+        <item name="android:statusBarColor">@*common:color/bl</item>
+        <item name="android:colorBackground">@*common:color/bl</item>
+    </style>
+
+
+</resources>

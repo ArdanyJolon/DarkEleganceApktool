@@ -1,0 +1,1941 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.3
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/drawable/de
+ sign_fab_background.xml
+SHA-256-Digest: jN+9gkGEaiaGgE6rTZFcvy43rYLSQrP/6TXnI9Z04l8=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_tag_legacy.9.png
+SHA-256-Digest: I3w9v+6qPVIqg84FbslGRquMz8jhq5COVTGO7tLL/t4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_3_light.png
+SHA-256-Digest: u0cAoh6/+Fia0AwqH9rUMs4DkXLNdWHV4vzONWb3e/M=
+
+Name: assets/overlays/com.android.messaging/res/values/styles.xml
+SHA-256-Digest: 9qUS32FbkRZ7/glP6epAo0s5kCbvBTfLA8K/QvIYGbE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_0_teal.png
+SHA-256-Digest: ZJEyqFVIYa5m5sxwkc6Uvd2cNt7uhpjFq9BjLIv0/cM=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/bg_
+ qsb_pill.xml
+SHA-256-Digest: JBYSeX1DV2sUSfViYclG6a64JWVAqlgQbxzoxlcB2mQ=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /img_wallpaper_external.png
+SHA-256-Digest: I9FumuYA3so2x+om9aP3xCzb96FPRWUKRDRlBHmYRWA=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_addcomponent.xml
+SHA-256-Digest: NTPi+AX2HSzt4m2OFB1vc9kXLvVHRJo/AFAH9ogod5c=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_bootanim_bg.xml
+SHA-256-Digest: 0eRBy/8VzwW55PXPhKN45Q+CdXGGODW2wqCcSqJYdHg=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: HoD6OcMoo2nwqqlHQPY3YbLzAx3FgPNW7fnMDW2K48c=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sysb
+ ar_quicksettings.png
+SHA-256-Digest: pH+//PCdSrDm5jQYvpPHAMtK+lBDVv85CS/OvJNaRUg=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/bg
+ _qsb_pill.xml
+SHA-256-Digest: JBYSeX1DV2sUSfViYclG6a64JWVAqlgQbxzoxlcB2mQ=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_multiuser.png
+SHA-256-Digest: 5YkLUmkzLivFdWo+pmKbFu8hM75U7xTupM4e8SdP2oM=
+
+Name: resources.arsc
+SHA-256-Digest: IDT7sb/FbXDXQ6JX36co8i3tqbRzfCLI9VbhZi2kfFs=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quan
+ tum_panel_bitmap_squaretop.xml
+SHA-256-Digest: s8+gCzXtCg4EscwYWjocOP3Yrr1pE0yyrajMD8AkHmA=
+
+Name: assets/overlays/com.android.phone/res/values/colors.xml
+SHA-256-Digest: pftW5mtQeOYUS+dGjoRSXUWE4NSflTV8tt6knQcDcAk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_sys
+ bar_quicksettings.png
+SHA-256-Digest: R1pBVPCksnjtr2MIvgCyqGT6VU08kvqs03COGIm2Voo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_1_light.png
+SHA-256-Digest: gQL3xFXTLxtOXhQok+9mc8wMEh0mug80VEBBDSTT2SA=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_search_url_t
+ ext.xml
+SHA-256-Digest: ywze4Qc09NIG9N6yWaHNq3urE5CvOj92e7r926JWfmY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_backup.png
+SHA-256-Digest: ss/Cm8rLY6zKekI6iDlnNjGEzFq58DM3JNr57gU5tdE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_storage.png
+SHA-256-Digest: 7e+rPNNPEqnqPiOCXQlLQ8emR54qtua50urG8ZgAygI=
+
+Name: assets/overlays/com.android.dialer/res/color/abc_background_cach
+ e_hint_selector_material_light.xml
+SHA-256-Digest: iEZJouYXbggIrITRJWw6a5ZcKXLJZPBqYCtrQJvfkdI=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_accessibility.png
+SHA-256-Digest: k18OAtNi77hR4zHRFlqXU6aFSAWxYsUpexJKQKu7W0I=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_4_teal.png
+SHA-256-Digest: OH95PMILgoX6CRMELs7vOW+BgFYsWz1WSHGFj+KOeFo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_0_dark.png
+SHA-256-Digest: 12p1vPgV2ae6W/6GB0LagBygWawsETqSzEwoG3GE7x8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_data_usage.png
+SHA-256-Digest: NeGaAsFPwGT6DSL/7Mz+CcAMuXaUBwMIfSx7VwLz9+c=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_1_teal.png
+SHA-256-Digest: he1oy6TtJyKvVpJ84SKQT0KGefueukmz9Zhkl4Z3Xd8=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_bg.xml
+SHA-256-Digest: g/bfqSjrJdVYsfe6Q3mXhIsVJ7LZjz9hGgPJ4hWz0xo=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/abc_p
+ rimary_text_disable_only_material_light.xml
+SHA-256-Digest: z4r4qAzXq7lIkqMZgJci1lpC/RmUvgJQDUmx3mG9sdQ=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_overflow_dark.png
+SHA-256-Digest: NZ6oX2BAGH25FEU3eUMVabNxWJTsImRCmdFGSwnfGqM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_4_dark.png
+SHA-256-Digest: 7r7SyLo5xVONJ7ulEbrJpiKXZVkxYzERMD55xBQKN6A=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_0_light.png
+SHA-256-Digest: ZeS/qX8txin9vVUpv76JdXznYEm+fhQiIFhjX2dSnpA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_he
+ adphones_a2dp.png
+SHA-256-Digest: I9lpKsghD0glZo7GkMQuqtP7FzZlciiRB070UivfM5c=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_tag_customized.xml
+SHA-256-Digest: rv38DeVLsNI1S9M7I0n6lQlyyCDGM8+KudQ9gvBKrSk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_3_dark.png
+SHA-256-Digest: sC1tAvpxaCunxgMQiwdR0UAXpHebQqpKnkYg2i/eA1g=
+
+Name: assets/overlays/com.android.systemui/res/drawable-xxhdpi/ic_sysb
+ ar_back.png
+SHA-256-Digest: DFT5iS9gZnlNNdoP5i9ehYoknoKHeo1N12qqnyS0PK4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_applications.png
+SHA-256-Digest: 4Y7V+xGagBsHKlmVByLMERW1nUNFpgg5sekGJzSNhOU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_c
+ ellphone.png
+SHA-256-Digest: 8X4rmxVeqzzpOOVw8p+C/1Wjpdo1HuqbDqd+sejiEYs=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/drawer_search
+ _tab_color.xml
+SHA-256-Digest: Ngo5TGcTbzL2YlSDz6TXfINajtIzCy0kTybxh4zbzhM=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_action_reset_disabled__.png
+SHA-256-Digest: dQX5Y8v9jOiYnB73GOx0t9zHXBG3pYNRuQQMxd1L1ZI=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_theme_reset.png
+SHA-256-Digest: z8HfbD7G2RKNypI5Hu9rsszWIHn33TcpzXnarRvOXFk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_4_light.png
+SHA-256-Digest: cK2MVysB07X31TIeRilnPlHY98AKDd+mHsXpsQ10dU8=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/abc_s
+ econdary_text_material_light.xml
+SHA-256-Digest: NW9/gvLSZpnkSfGKUeLVWG3kAo2nQUmJC4DSxvgVXuY=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_wallpapertoggled_bg__.9.png
+SHA-256-Digest: B8DpWL5IH35MgaOReoz1tCZASmpClZzSnvx/e2XtHGk=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_button_shopthemes_normal.xml
+SHA-256-Digest: F/UJv09MuYdSnbT/COIw6++g+rCSPjL/Kkt2V1m8JO8=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quan
+ tum_panel_bitmap.xml
+SHA-256-Digest: o+XXZ7w7as/eX3WApwenaXP6DzLdQuFVZjS4qaapjoM=
+
+Name: assets/overlays/android/res/drawable/list_divider_material.xml
+SHA-256-Digest: FmGvFFNbLi33uP9lzBNUZTj5dGq2Ir2tj+01ml6sKT8=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/values/styles.xml
+SHA-256-Digest: It2KnLR3xl+LhcG2TroSCtodbvjXXxnAP9z9eA0D/XU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_development.png
+SHA-256-Digest: zWVE/Eo5dka4ZeyJzUjpcH4x71w4vIoC0dSabbk9jeE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_home.png
+SHA-256-Digest: Y6ZK10/83zRCSyVc4Byxq8UGBS4N8geZ+dGeE+r7YiM=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/bg_q
+ sb_lollipop.xml
+SHA-256-Digest: XO+UdIr7pid455+8nrSnQCbtSARK+Sk5R6oV96e+zmg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_battery.png
+SHA-256-Digest: zZoEMI8aI/O0Hwcuzq17n3BHluKTdHGYg111GrmDvX8=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/bg_
+ qsb_lollipop.xml
+SHA-256-Digest: XO+UdIr7pid455+8nrSnQCbtSARK+Sk5R6oV96e+zmg=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/abc_s
+ econdary_text_material_dark.xml
+SHA-256-Digest: NW9/gvLSZpnkSfGKUeLVWG3kAo2nQUmJC4DSxvgVXuY=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qua
+ ntum_panel_bitmap_searchbar.xml
+SHA-256-Digest: QLHeA04k6TGdYt3TFTXlfB3l/7Lvrzv+GDfrBpUIRfo=
+
+Name: assets/overlays/android/res/drawable-xxxhdpi/on_button.9.png
+SHA-256-Digest: q5pPWKWaln7UPeVtbyiDGL/YtlyoybSWZ6e4U/rL778=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_0_teal.png
+SHA-256-Digest: Fn69Jp7fuhynq7glHIY+YNReUIB4IvrjDvYGiPWvjao=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_1_light.png
+SHA-256-Digest: 8IpIfsPTYHv/vyBjbwQE4zNVSsZHp7dpe8DRX499LEg=
+
+Name: assets/overlays/com.android.calculator2/res/values/styles.xml
+SHA-256-Digest: xJgjLqeu9wHjA7L4VV3frd40SSLlwSbRz/fmXFzmdYg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_2_light.png
+SHA-256-Digest: h8zrCqGwd2Xw0KCfDEt3n6nTAdVCM+t+9Rcg9vlFskU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_dock.png
+SHA-256-Digest: TbV4DM7jnyyhP36WIunThr4s2fBaoR2aU94GpLk4cNs=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/drawable/ab
+ c_ic_menu_overflow_material.xml
+SHA-256-Digest: /w2H94tCaaK8g595DPP1fum6w/K3RkoSGpBzwM54l7w=
+
+Name: assets/overlays/com.android.systemui/res/drawable-xxhdpi/ic_sysb
+ ar_recent_land.png
+SHA-256-Digest: 2HKUcZVPodA9cDwGHyc3m1rbEprTvUnQ1O94UcHvAqw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ laptop.png
+SHA-256-Digest: HKeonr78LMEqhLtyX7JdLS6s3ZjQ8s0quyOaqsx6eQg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_more.png
+SHA-256-Digest: roS1VMgZMCJILrTFHDtHfYkhw7hUFBdpMrzxIlgVtY0=
+
+Name: assets/overlays/org.cyanogenmod.audiofx/res/values/colors.xml
+SHA-256-Digest: MuMo1/TI0po6stftmi1lET/paD3QLgmXoN9BBPP24ss=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/md
+ _dialog_full.xml
+SHA-256-Digest: o5tMCyHwosYukYEYlEloh8TdpxYWbJ9/MBFjyGHhU+M=
+
+Name: res/drawable-nodpi-v4/mossgreen_screen1.png
+SHA-256-Digest: MtBy6V+slNVdiMwqEQgZ++8RUNfB5koaNj/HbRAq4FA=
+
+Name: assets/overlays/com.android.messaging/res/color/switch_thumb_mat
+ erial_dark.xml
+SHA-256-Digest: pfXiX42QE6mCOEK6zqPhcNwEk69aAFskztheZNzl8H4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_1_light.png
+SHA-256-Digest: jod+eZ8H1qT6D8ql+w7LWsEnYrdpt1e+VsAxJKxsjwo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_p
+ ointing_hid.png
+SHA-256-Digest: HPhG7CpGZ+JVKGkc0PodaqHlGeLDb4n7OPJ3UIPc0io=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/values/colors.xml
+SHA-256-Digest: ImqjF7DH/zEaliYzme9JDYcg7KHkFERmm/L5LBuJMOU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_2_light.png
+SHA-256-Digest: NSdFJDZK6MD4qRNUQBcxeDR15AiHaUJ7DK9zZGaXthk=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/abc
+ _popup_background_mtrl_mult__.9.png
+SHA-256-Digest: y3mGGr+3PlrFdhZ5q6tyxKLOctlqBg00Cz41U0DTybE=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_button_shopthemes_focused.xml
+SHA-256-Digest: AoP1XcOzhitISbtSVhtj0cRg6TLAhQgvx5tcpuLVi+A=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_sim_s
+ d.png
+SHA-256-Digest: trt04AMeqKTyewsnj8D7YUcaJsEJ/WhS2BzE8HetMl0=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/abc_
+ menu_hardkey_panel_mtrl_mult__.9.png
+SHA-256-Digest: bj1/YVAw3oyJEZgoiqIu5XpZAdPIuGjNMmAEVBFe26s=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_2_dark.png
+SHA-256-Digest: iKXdb3iQwUxiRW53ZmPbLvMGQC+MB5MHSNf+2uHgN9Y=
+
+Name: assets/overlays/com.whatsapp/res/values/styles.xml
+SHA-256-Digest: 0u8jNEnpT1GJO1/Ut4H4OOlk8uSooag9ffxJ6vpQMqE=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quan
+ tum_panel_bitmap__.9.png
+SHA-256-Digest: gGyIT4WRXZZTV4PSYGbA2a8dNUZeAuvqSTvfGWqUMo8=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/md_d
+ ialog_full__.9.png
+SHA-256-Digest: C02K6pLZY5X7pplqPByZjL+7xQNsRBnvF7KWhDblKw8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_nfc_payment_am.png
+SHA-256-Digest: ckuCHm2xtFYOndCdFFY2teDy6B77d4IS9Bzlc6jYQHs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_3_teal.png
+SHA-256-Digest: xykrfK9DE3B1Vm96y8tVZqVFYp0fFB8dii2LNKFTVH0=
+
+Name: assets/overlays/android/res/values/drawables.xml
+SHA-256-Digest: 72EDHjCgCBVGHO3HEfFZrlIBOtPfkM+l9mFgJToII4I=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /media_sound_stop.png
+SHA-256-Digest: 5NRGLaVsL2K7mZ8ZtjXX87oPatjlkdYX7rxg9wP6L00=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_secondary_te
+ xt_material_light.xml
+SHA-256-Digest: NW9/gvLSZpnkSfGKUeLVWG3kAo2nQUmJC4DSxvgVXuY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_date_time.png
+SHA-256-Digest: YMHMVcqKQA+JtXph571Z54I84vLbEgAzQ9ScsGHcit8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ emptystate.png
+SHA-256-Digest: p9cjGYOOi3cbgSltl10HHd/Aj7V5CTvdkao1w16OO54=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/abc_primary_t
+ ext_disable_only_material_dark.xml
+SHA-256-Digest: z4r4qAzXq7lIkqMZgJci1lpC/RmUvgJQDUmx3mG9sdQ=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qua
+ ntum_panel_bitmap__.9.png
+SHA-256-Digest: ucnq7kz56DEI54tuGHwLEhmCA0HO5VNFIQPoMIGEtd0=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/md_di
+ alog_full__.9.png
+SHA-256-Digest: MN/TMFZBgS6lExSFKEyW+VOAOjl5ennBPe1Ho088POI=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/bg
+ _qsb_lollipop__.9.png
+SHA-256-Digest: pPl876w8kTT/fS1rarOEER2gBdg9mxFHqDdaF7FWImI=
+
+Name: res/drawable-nodpi-v4/pink_screen2.png
+SHA-256-Digest: I9pe/v3lcz7Qbu9H+vbTV9tdfoaKyFw+QCssJ9eLu1w=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_tag_updated.xml
+SHA-256-Digest: KlmpsPr+Mp3lmVjWudy0QXXGuP4bUSiL7XOmBwA77ck=
+
+Name: assets/overlays/com.android.packageinstaller/res/values/colors.x
+ ml
+SHA-256-Digest: Ut8ALJ75oF8W8QS3Hrb7uc+W7MAArORP52/CHQrMhkM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_0_light.png
+SHA-256-Digest: 3mmBEJKGkmt6DtrNcGq17s0yyCODGvKrhLG8Nvw6BFM=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/bg_qs
+ b_pill.xml
+SHA-256-Digest: JBYSeX1DV2sUSfViYclG6a64JWVAqlgQbxzoxlcB2mQ=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /media_sound_preview.png
+SHA-256-Digest: 6tLHlQVkfr57BrAmZXBbuewYSiBptkWubsfxAP135lA=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/primary_text_
+ material_dark.xml
+SHA-256-Digest: LIQmazsVsURqZxyGajdYP2wKIzIw6efUShPRCA9vuNk=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: gnId9SY5Pn6PsT89SGhUqlHrG1dk6swT7szYyVAsXhw=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_button_shopthemes_pressed.xml
+SHA-256-Digest: U4U2EIvldCZum70p4Up/pj6AUxjU4rlmN/4LEFdDkh4=
+
+Name: assets/overlays/com.whatsapp/res/drawable/popup_rounded_corner.x
+ ml
+SHA-256-Digest: RhlJaKDezbBf8YsmcsSTH5FjBOLRdrUd13GG3g/MFrc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_development.png
+SHA-256-Digest: 5kySussaKwn75rBAwrbW7lK6Ka12HgA/QTH6rLsxEgA=
+
+Name: res/drawable-nodpi-v4/mossgreen.png
+SHA-256-Digest: A94K+l9gFtgtFxFa5o4tOIZKhhFKoumoA998IFDggvM=
+
+Name: assets/overlays/com.android.packageinstaller/res/values/styles.x
+ ml
+SHA-256-Digest: pprb4pV5w/Yo1B6SjfDlnAPtpo3ec4yym8U5A41SlYo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_print.png
+SHA-256-Digest: t3MhRObpJyJuNwDGt3gSV4A1d/nQi3ueGBdPo0Zi3L4=
+
+Name: assets/overlays/com.whatsapp/res/drawable/popup_rounded_header.x
+ ml
+SHA-256-Digest: RhlJaKDezbBf8YsmcsSTH5FjBOLRdrUd13GG3g/MFrc=
+
+Name: assets/overlays/android/res/values/colors.xml
+SHA-256-Digest: 727iGJTEkafSaS3dfL7g/Dk06qVcyspkLIlMs1EqOt4=
+
+Name: assets/overlays/com.android.messaging/res/drawable/dialog_backgr
+ ound_material.xml
+SHA-256-Digest: AyqXtERnPPXi7ejuMK0OwVhueXs7808pEgrunT9bFgM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_0_teal.png
+SHA-256-Digest: BCPblMJeye0qmWS5EPmaxMiVkJd/BOGTCZ3upLLMTOE=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_button_shopthemes_normal__.9.png
+SHA-256-Digest: Rw4mKglEdMwXToWHY2fw7DG09qLapTcqBN7995wjjPk=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qua
+ ntum_panel_bitmap_squaretop__.9.png
+SHA-256-Digest: pIvBnoXRerOEX8xU3jxZzIEvjP1r4mf3AkPpQbRyS0M=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/abc
+ _popup_background_mtrl_mult.xml
+SHA-256-Digest: LCpdJhiku+izJgTETbKTXGrJ1V7o8B25Jf962T0fgQM=
+
+Name: assets/overlays/com.android.messaging/res/drawable-xxxhdpi/fab_b
+ lue.9.png
+SHA-256-Digest: JDzz91yqOKv02Er6gpRiudSX6ECk9jvCWiTZ8eySaGY=
+
+Name: res/drawable-nodpi-v4/theme_preview.png
+SHA-256-Digest: OtNE/7Dh6V/SQDAhkBIU99mwU/XrG364eRSafbTD3DI=
+
+Name: assets/overlays/com.android.providers.media/res/values/styles.xm
+ l
+SHA-256-Digest: H8RY652RFWE+KP36Wh9MG9LBgYFIh1bvLQ0UYOs47p4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sim_
+ sd.png
+SHA-256-Digest: f3RPlm+qKVy2w00+7rSSST1JkAYurbZQ9rTE2oYGNy0=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/secon
+ dary_text_material_light.xml
+SHA-256-Digest: KWTno2pc7X8niy38YT5nCNvjf2Zt8VCz8FD2sdgQ6Xw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_l
+ aptop.png
+SHA-256-Digest: OiNZv58703IR81Srx5WtoPDTsn6Kc1K/lXQy52nxzOU=
+
+Name: assets/overlays/com.android.dialer/res/color/tab_text_color.xml
+SHA-256-Digest: V1kVi+gO4bTReObThfdT+wOPf3IjWDcArboLRNatrqU=
+
+Name: assets/overlays/com.android.settings/res/values/styles.xml
+SHA-256-Digest: ReMwD6hg/GJnvQ4iFrZjZzAffxE8kZ6Jokk0gI0GS0c=
+
+Name: assets/overlays/com.android.calculator2/res/values/colors.xml
+SHA-256-Digest: 405VnPhW+xpWT4q+AINNAgH8cvmMXQoJbhWYwT6nGjo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_accounts.png
+SHA-256-Digest: 3c5Pg286HRAWwxHpvlNbDR1/3/yGiTJDJsSMmgc7pOc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_1_dark.png
+SHA-256-Digest: HWmBMQC6N05/j4gxwEU8bH5vC3M/ze3pillSRnRdlbU=
+
+Name: assets/overlays/com.android.systemui/res/drawable/ic_brightness_
+ thumb.xml
+SHA-256-Digest: ravF+QvldT4wr5Q+KYgmtGQ0UbpV/dfAbRIPFRc/xgY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_language.png
+SHA-256-Digest: 6MlD4yOl2aTT2r+laEk/RNJc2xdUEMtTqXlwPoyZ+fg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_2_teal.png
+SHA-256-Digest: 3J3vShS/Cay754kIBlXsHWOyp/XxU5Zxe4WfJGK9t+U=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /btn_apply_pressed.png
+SHA-256-Digest: 52uAbSY0Fe6wYExsuZKj7Qkb/Eo/EHkmhVoYtfOelA8=
+
+Name: assets/overlays/com.android.messaging/res/values/colors.xml
+SHA-256-Digest: b4cEreyF15k61RyfhSQgWquDXzq+aNiBlHdhV7bfJoY=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_apply_cancel__.png
+SHA-256-Digest: 586CHkutM7vYifopbcMfxX6I9ZLuMIdQ9KJAATESF8M=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable/divider_sh
+ adow_gradient_top.xml
+SHA-256-Digest: ZLhmLPR1+OgqL8euYg76pEzxD5e4KPoSfv/4JLhR37I=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable/card_
+ background.xml
+SHA-256-Digest: p1ZQVOWx0l/CI8uqt1dHSy9VHSH5tNwQtBmBL/Akwkk=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/abc_s
+ earch_url_text.xml
+SHA-256-Digest: eSvl/uMH7k1vz1QgMAx/isPYoNSsy71rySEPZ6GVoOo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_2_light.png
+SHA-256-Digest: +j4GQoOeZUfyNiY5sG4eb8KaANag0nmdLfphbxyZ2ow=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/bg_
+ qsb_pill__.9.png
+SHA-256-Digest: 65SMiqeiDd3kAXdGdNTuJ/2mRvlvWrKVLz9fiNvC0RA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_battery.png
+SHA-256-Digest: gQpCd2502Um2zLwD4Zk6Cgr6T+bZKdDWQfNj1GtqWdw=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/bg
+ _qsb_lollipop.xml
+SHA-256-Digest: XO+UdIr7pid455+8nrSnQCbtSARK+Sk5R6oV96e+zmg=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qua
+ ntum_panel_bitmap_squaretop.xml
+SHA-256-Digest: s8+gCzXtCg4EscwYWjocOP3Yrr1pE0yyrajMD8AkHmA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_accounts.png
+SHA-256-Digest: YOQ4WR9QE07hFe9Msn4sERYWPY6SF2y2fu+wJRaa480=
+
+Name: assets/overlays/com.android.providers.downloads/res/values/style
+ s.xml
+SHA-256-Digest: q4NzzH2uhDVGoF0Xfo/uRJEdU3bwNMHEjuxsyjXj8E4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_men
+ u_add_dark.png
+SHA-256-Digest: cDxIV8qiKnx+BPlBUHeJc31afRxWQSNqh2r8lPC9dZ8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_backup.png
+SHA-256-Digest: mBgk+nmjmQEZuga5sRe6DQYikA3fmJwhWUONCcovrUc=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_tag_updated__.9.png
+SHA-256-Digest: E0wG7sSN8B0pW2B0DfIuzP/KVGX4O+z9OAdE6e/qRns=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ config.png
+SHA-256-Digest: ohyLblcycSJN+fLPf/skiJrtcmJSIBMONfb+qXs8ab4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_h
+ eadset_hfp.png
+SHA-256-Digest: A3eVMbSU8biw+DDvOlv/9zt7VeX5Y14u5Kt2tXfZucA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ headphones_a2dp.png
+SHA-256-Digest: CDJss4oCP7bOrsHpM+nAfJoLAKvrXaDVDyDeNZuZxzA=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_addcomponent__.png
+SHA-256-Digest: KW1LMfC3eM7xywPINKOdxjoRwWgNhpl4fIqkPIzQql0=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/overview_butt
+ on_text_color.xml
+SHA-256-Digest: NyhfRqhvXb/M9OVUe5Nuu7DR6hndFo2OY0apy1cxGHk=
+
+Name: assets/overlays/com.android.messaging/res/color/popup_menu_color
+ .xml
+SHA-256-Digest: +c3yO3xh4QpfIsoLx9zTB56ZjAkQbluCbbh1OERv0TM=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /img_wallpaper_none.png
+SHA-256-Digest: c22E3wOZJsRDzwHupOVFyWMsWKt2zoofDwJXVCO0u20=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_mi
+ sc_hid.png
+SHA-256-Digest: DOwlz2aEetvq9bDPhfSH3ufgd7YdiQT0LYzZTdZHldY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_4_teal.png
+SHA-256-Digest: Rx227uGrCWVSyJREMGX0T8S390qCyT/emi2FmVT/2Y4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_co
+ nfig.png
+SHA-256-Digest: JgmTCLHeltf+T/g8bpqrp9ojKwXBhAyIDXJMYq09Zj4=
+
+Name: assets/overlays/com.whatsapp/res/drawable/popup_rounded_footer.x
+ ml
+SHA-256-Digest: RhlJaKDezbBf8YsmcsSTH5FjBOLRdrUd13GG3g/MFrc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_3_teal.png
+SHA-256-Digest: 7YcgzoeOy5PD97Urf/a9wBYK48uN7Fd6Mh3wanmwu9k=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_1_dark.png
+SHA-256-Digest: ANXuGjpC1eK9YLTFG44FRcCUAZ3qpbjLkV2/mi79VGg=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_theme_delete.png
+SHA-256-Digest: LvaPWmUyuEQSDKQmXQOxgeV2DPtu/MSOB0UHb22RPDo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_4_dark.png
+SHA-256-Digest: 34EM0/4aXo94epM758DCvSOIhvpjPkZikrKZGn/+M+o=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_3_light.png
+SHA-256-Digest: rxRdyk0ydPiKKmmmcop5UjOgJKa/rcBL7qD6lDOnsx8=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/abc_
+ popup_background_mtrl_mult.xml
+SHA-256-Digest: LCpdJhiku+izJgTETbKTXGrJ1V7o8B25Jf962T0fgQM=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quan
+ tum_panel_bitmap_squaretop__.9.png
+SHA-256-Digest: iDdSfHGC+U9s9EJWbY3zFRDuxal/FsxyuncfmwXu1Ew=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable/abc_btn_de
+ fault_mtrl_shape.xml
+SHA-256-Digest: 92MVnGlemdfKtWU83dRGKIudykg/cEy9vD+YTP5YRH0=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/abc_p
+ opup_background_mtrl_mult.xml
+SHA-256-Digest: LCpdJhiku+izJgTETbKTXGrJ1V7o8B25Jf962T0fgQM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_1_teal.png
+SHA-256-Digest: peToVQcoG8n5eG8cMibA1cpP5SYzJv0N+7glCAACDk4=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/color/popup_me
+ nu_text_color.xml
+SHA-256-Digest: r0QZTN3HIQbtkAuHiwm5A1AG/oSyNMtFV746T8cI8AY=
+
+Name: assets/overlays/com.android.dialer/res/drawable/abc_cab_backgrou
+ nd_top_material.xml
+SHA-256-Digest: ljpMQfteYEg0+ArtuZuT88XJH4djEMDnPAF1qmJdE10=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_notifications.png
+SHA-256-Digest: 6wWvHgITFVSlCrat7c3+tgdg6yG3VcWYZuNOhfzU0WA=
+
+Name: assets/overlays/com.android.messaging/res/color/chips_dropdown_t
+ ext.xml
+SHA-256-Digest: 0ZzPdy974SECDfT0vAHQ6/4FO+MT/9TdpTBJ4VpCBLc=
+
+Name: assets/overlays/com.android.dialer/res/values/colors.xml
+SHA-256-Digest: 4EKohJE4hVJe0qg4YPPTHabzfoyoUrtbOrq9XYqAwaY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_1_dark.png
+SHA-256-Digest: Q6qHumLDnFkHid8W+CHz8KXyfsyeWxIEqO9hFHdGbdA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ misc_hid.png
+SHA-256-Digest: sKxi3fa8uhuopUE6GYVFnUgFJM0WaZwwtUmVjXMbPAw=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/values-v21/styles.x
+ ml
+SHA-256-Digest: jijaxcsHdXbCDy69zKKBlUguSTQ8gdkDTYJt3lsw/Lo=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/abc_search_ur
+ l_text.xml
+SHA-256-Digest: xqiTP+QN29FpzvIBzbX+ZHWXXWd0o7cbhpYuyNh7TL8=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 1Lng3IJTZwI19KH0La4HZuQXlnlocalsa8ZyeAXy33w=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_sound.png
+SHA-256-Digest: wBu0g1i9lGHsFCLgjuQdq4s75hUuqPz18B6bnZHvaUI=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_1_teal.png
+SHA-256-Digest: xaMIz8n356KqKSEYehoiCqOQYXsYHQYtoHLrThKftD0=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_apply_cancel.xml
+SHA-256-Digest: BmdloSlIn0KsxZAyzs6VRsAYRo5q58hnPdeahNuFy4c=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_1_light.png
+SHA-256-Digest: ZY8cAhcbkDIWXVLHe45YcKd0P6rs2kIqg4l+Acl+Hjs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_3_dark.png
+SHA-256-Digest: N0m079PzynPkUGvxKsUqWqDK8owBC+kIbPgifTloo+U=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_primary_text
+ _disable_only_material_dark.xml
+SHA-256-Digest: z4r4qAzXq7lIkqMZgJci1lpC/RmUvgJQDUmx3mG9sdQ=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_multiuser.png
+SHA-256-Digest: 0RijMUQrRizDTxmW8cM8GOUQyZYjFDKTlpe0ERWoNCk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_display_am.png
+SHA-256-Digest: VagrvoeWjamLcUbqpoxYy/eKwoLPiFy4iD6om8F5Fbk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sync
+ _green_holo.png
+SHA-256-Digest: 24LVuq9u/WccefcthysGn5abTrpttdcYQWWsPI9VaCg=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/abc_m
+ enu_hardkey_panel_mtrl_mult__.9.png
+SHA-256-Digest: cCbn74WQMamq9cESBmUldSITUXrHZbIVr/QCtntS7LY=
+
+Name: assets/overlays/com.android.dialer/res/drawable/abc_cab_backgrou
+ nd_internal_bg.xml
+SHA-256-Digest: 9W/1Kql+YLQcd48L3zDYihMwxak4gEEpW82erpogOQ4=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/md_
+ dialog_full__.9.png
+SHA-256-Digest: PbwdPgUL2MixUfjeTplMsNfFRa+WllHeth30/oAYfYA=
+
+Name: assets/overlays/android/res/drawable/floating_popup_background_l
+ ight.xml
+SHA-256-Digest: I1hLwM7B6K1M24KYinaaM1NNbFXKO7zupzue/P1f4iE=
+
+Name: assets/overlays/com.android.gallery3d/res/values/colors.xml
+SHA-256-Digest: 4//8Nk9rIg2Bl1IuneBhE4yJkeMbmPCarcMOVzd9gC4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_4_light.png
+SHA-256-Digest: iEd5HgL83jbq5B5Y6L5rRUPG64s13Zu9laf+6cs9vsE=
+
+Name: assets/overlays/android/res/drawable/dialog_background_material.
+ xml
+SHA-256-Digest: lHQbYEcgAV38kO733WhhEa+8csOZW1K+wE8kdnuxPVU=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qui
+ cktooltip_menu_popup.xml
+SHA-256-Digest: cla81uih/tesesxkyV/ms4GtLcyWUbzNTXB1lMzJCuQ=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/abc_secondary
+ _text_material_dark.xml
+SHA-256-Digest: NW9/gvLSZpnkSfGKUeLVWG3kAo2nQUmJC4DSxvgVXuY=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_tag_applied.xml
+SHA-256-Digest: xQRzMboYdhXoeG83Q8iK+0tBkQV6YqZlfQmRwHO6zyc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_4_dark.png
+SHA-256-Digest: ckbtxJwK0uP7SEf7N+IkE9v2knlh4YUmBfLwq4WFqTk=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quan
+ tum_panel_bitmap_searchbar__.9.png
+SHA-256-Digest: 5q5ddTi3Vm+pSkpzzyoLVHz44yBskmEp4zJEr7MguOo=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_bg__.9.png
+SHA-256-Digest: AL72E0+RkpI6DP5QaJtImd1Ck6fyJy4zirxdDKYrO7k=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_notifications.png
+SHA-256-Digest: kJzFR8uQgD7OKrTg4rnD4SvdAWYOW3dFnIeXc79jlpE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_0_teal.png
+SHA-256-Digest: voX3wtixIWHPmMVNRyXZlJtY8qGFS6SCwXwX7g+WKfs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_4_teal.png
+SHA-256-Digest: 1bwm5UZsL/iXtC5r24yintSHGr/psePoxp7/ASQCE9s=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_dock.png
+SHA-256-Digest: KSJjituQfUT2rHr2rguqNbeB4sxeKZFZSSk/9tVIP/4=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/bg
+ _qsb_pill__.9.png
+SHA-256-Digest: NzI9+Gd50mebsLvCNNgh//3AwoI44zUQYxPc9EbUZ1o=
+
+Name: assets/overlays/com.android.systemui/res/values/styles.xml
+SHA-256-Digest: c0ifS62s7MYKx3Z9GpbFzVoIIuLxNareMluG2WNqmuY=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qua
+ ntum_panel_bitmap_searchbar__.9.png
+SHA-256-Digest: HlerzcTdABC217yjwgbyua4XeAk19z6moT55+EaHPr4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_sysba
+ r_quicksettings.png
+SHA-256-Digest: X6kxqI7ZgNWo6TWPnYOjyn7hfDKNhdjm1T+IHvcP2L8=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/values/styles.
+ xml
+SHA-256-Digest: c/sCCOCMReG2uY7fKFFSADdjpheVWVm6KTIVVSus0Gs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_m
+ isc_hid.png
+SHA-256-Digest: 4Sw2v48Yk91ZwHAVo8AAEZK6cGpUJVf6TdIccPNKQNg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_4_dark.png
+SHA-256-Digest: bej0wM8tBqagjXZmIY4aPGSOHzZqNQEQzCNzl5qEKYQ=
+
+Name: assets/overlays/android/res/drawable/floating_popup_background_d
+ ark.xml
+SHA-256-Digest: ije//3VazdHH5Cio/80UdCieJaVwoWsRjdwWwVsEVSk=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/qu
+ antum_panel_bitmap__.9.png
+SHA-256-Digest: MFsyv8OF4GTfnxUcJBwm9iwWAvAQNB0do+TAxd7v7zE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_menu
+ _delete.png
+SHA-256-Digest: n1QLjSMRGpCzXs64Ek+tjtLmVnt8f+9a5weG/13OYP0=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /btn_quicktheme_remove.png
+SHA-256-Digest: A4hiC2eEkmlO9AFmP0SiZdAx4EAnK1Zz7Yd62frAgaU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_wireless.png
+SHA-256-Digest: JRAE9XduxaNyz7vMl3ZwDa3TDCEfJLvLqPK3Q3HIA8U=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_4_teal.png
+SHA-256-Digest: Af4T1aOw57GtzndnMcWdvsrzQgrv0jni8rD3bWPKA7s=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/bg_q
+ sb_pill__.9.png
+SHA-256-Digest: 8ViNiluDJjg0i7q6JU2v0lXx+VMzADuoLb7PgY96YD0=
+
+Name: assets/overlays/com.android.dialer/res/drawable-xxxhdpi/img_no_i
+ mage.png
+SHA-256-Digest: y2aMh1dggsauC3jMEX2CxvPvjpBEOphOBIeWYS9PoNg=
+
+Name: assets/overlays/com.android.systemui/res/drawable-xxhdpi/ic_sysb
+ ar_home.png
+SHA-256-Digest: 7rAIpaC8A9/tOY3NNF7AkXoGkwcsbAbAL0btnB9Enqo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_3_dark.png
+SHA-256-Digest: KYb8CgCuGPsdCT/AV6OUvwA0fMDdMI9a7Ka7bS2DVrY=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/primary_text_
+ material_light.xml
+SHA-256-Digest: 82e/TAT8VPi47UXKfgwftM4OvrXYwVdvIH6VcPh6fuc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_location.png
+SHA-256-Digest: qGgmlAUzCCLbnmJYmVDuJLBBM9lTZBJqr8jTsj4oPhM=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_bootanim_bg__.9.png
+SHA-256-Digest: 8c1vqmeJUDD09XC05163KtgTUnXmOMsPPkO4htmGoQQ=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quant
+ um_panel_bitmap.xml
+SHA-256-Digest: o+XXZ7w7as/eX3WApwenaXP6DzLdQuFVZjS4qaapjoM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_men
+ u_delete.png
+SHA-256-Digest: D3/99jO89JBxeDKCjHp0jCUY2ODkziNanf/DQXaKxYA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_0_light.png
+SHA-256-Digest: PEhr2XYRhferhjLrGC5gTVSc3M9C6negI3l0cSAQ9Gk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_security.png
+SHA-256-Digest: d2CJGpE8/fjuzZpE5JDt1K5jiNXpyNIRHgk5HzgzqfM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_lock
+ screen_ime.png
+SHA-256-Digest: rk2cP9dVPMJlHmTFU+oScLHj/GD/Gt8GFhphvmSx7A0=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_bluetooth2.png
+SHA-256-Digest: mrNhE+LiRnawwexqvt2xQ/81dtCHb2s2SFXNvqD3Lc0=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_action_reset_enabled.xml
+SHA-256-Digest: h2r55rVmVJvssNNWdUYgNuA00kS/MOhlNx3cnwKjrso=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_tag_default__.9.png
+SHA-256-Digest: 8A8l3+ymFrumFFOUOr3AzBOMvNmWbcjlyHatURgb9ds=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_themepreview_bg.xml
+SHA-256-Digest: 6ALzkoGTyDJNn1SSie0DZPylSAKgda07BM1r+a41W88=
+
+Name: assets/overlays/com.android.dialer/res/color/mod_icon_tint.xml
+SHA-256-Digest: Hhp5Kg+MGw2BD9wBOjVDrFswrq04QlBqEqJS9RzdoBU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_accessibility.png
+SHA-256-Digest: JkV4hhdmiqweCtgkweIirEb4Okfpus55egOW9pqI05o=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_menu_
+ delete.png
+SHA-256-Digest: V2LZ4N32wo2wcKwTXh7og351uod4lN3snDDV4UglOyU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_3_light.png
+SHA-256-Digest: FjsHUQAOyr5r8l4gWhXQVYYdhra2QEf3V5q6DJxwAh4=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/md
+ _dialog_full__.9.png
+SHA-256-Digest: 6mlHv29EHfkDx4BDiIaSzRl7yvHCJN8QwFS2NQfrdU0=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_theme_customize.png
+SHA-256-Digest: Xdb34s8jVv7hSZN2eIsTGaVGErxWR6uhQ4oFECJ9fCQ=
+
+Name: assets/overlays/android/res/drawable-hdpi/ic_action_account_circ
+ le.png
+SHA-256-Digest: hJKhlkEV9Jyc/VHYBALztUuIcHktMmoShBqzwATZ7/c=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quick
+ tooltip_menu_popup.xml
+SHA-256-Digest: cla81uih/tesesxkyV/ms4GtLcyWUbzNTXB1lMzJCuQ=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quan
+ tum_panel_bitmap_searchbar.xml
+SHA-256-Digest: QLHeA04k6TGdYt3TFTXlfB3l/7Lvrzv+GDfrBpUIRfo=
+
+Name: assets/overlays/com.android.messaging/res/drawable/list_item_fon
+ t_secondary.xml
+SHA-256-Digest: 5Bydv/dJhW2RUB49fM3lfjDQdVmYH48eI3a+2E+WBFo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_4_light.png
+SHA-256-Digest: jeJP5Oe4yUhVArx/lJF4qU0X3Vx4BwfrJR7rFAYikV0=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_1_dark.png
+SHA-256-Digest: hxRfL9i4JTYSe7vf6ldcHATS04H2bKcr3qPHEyO+Rkk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_sim
+ _sd.png
+SHA-256-Digest: cdTArTbn+cf0+OX23la83Puazv1cKMn/Mm1cwcGc00g=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_0_dark.png
+SHA-256-Digest: J6lzY5D0G0+2lcrHLISlzdzWkwyNQjE7CokCF5Zvplw=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/drawer_search
+ _tab_color_night.xml
+SHA-256-Digest: Ngo5TGcTbzL2YlSDz6TXfINajtIzCy0kTybxh4zbzhM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_menu
+ _add_dark.png
+SHA-256-Digest: CXpHrpBMZJ2g/Zjh6uFV5mBezulsLmUSzmSrcRkba44=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_3_teal.png
+SHA-256-Digest: sk/iVuVpmo+tqvnFw9XU4SUdybesYeldS7jzxw83iAI=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/abc_secondary
+ _text_material_light.xml
+SHA-256-Digest: NW9/gvLSZpnkSfGKUeLVWG3kAo2nQUmJC4DSxvgVXuY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_nfc_payment_am.png
+SHA-256-Digest: ec5m5EKa3DIA6NnMIknFrN6hrx6Z+HxyjcwMEAa5OEo=
+
+Name: res/raw/pink.zip
+SHA-256-Digest: jTEES6CPlh4DO+9QWh+SqyVATgtf5lSlo2xF5ENuTc4=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quant
+ um_panel_bitmap_searchbar.xml
+SHA-256-Digest: QLHeA04k6TGdYt3TFTXlfB3l/7Lvrzv+GDfrBpUIRfo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_backup.png
+SHA-256-Digest: IRKtIWC2E6CD0ZSqMENG3A87HjpoMYbJSVFgwZ6e35c=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_storage.png
+SHA-256-Digest: tOfa4yBhjTRKZ6cBxH7owB3G0A9lftYILVsh/bpEJKU=
+
+Name: assets/overlays/com.android.calculator2/res/drawable/pad_button_
+ advanced_background.xml
+SHA-256-Digest: ywIxaqUGFkVcjGRTI66YljOaY6PVBAnEv/Lz7hi17fQ=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_tag_applied__.png
+SHA-256-Digest: 3sq0P9xANDSch8xRkJSW2EPayObmfG8Wn3dHO1slC8M=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /btn_apply_normal.png
+SHA-256-Digest: O4+1eTZGU2FEiq6nRvVFJJccmVjERWqBEOy9YVVl4cs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_ce
+ llphone.png
+SHA-256-Digest: ZYq2r2qhp9RI4x+VRPFT/Wzm3oYIq3x5DnnljWPVCPE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ imaging.png
+SHA-256-Digest: zEzvjxNxC4RB+hB0Bt0A0blh3iARAB/+riGM+ofD4tY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_1_dark.png
+SHA-256-Digest: eSx4QgeK2+2EB8iRV3MG2hKodcG45cfoSEZXF2qDsBU=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_tag_default.xml
+SHA-256-Digest: R8p6xoAkdy0rQWVrnPaHmeVqlODlsAcdBbqenrzJvU8=
+
+Name: assets/overlays/android/res/values/dimens.xml
+SHA-256-Digest: FWIWOz3qJD7SVGIcCSCL6vqhqXEKOyTjc/kYYRHv8HE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_2_teal.png
+SHA-256-Digest: Ry5NKsW48ywn0wc/tOlCrBC3klR9XnSzi/yWB4NqEEc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_1_teal.png
+SHA-256-Digest: qqzSntUr1kJEr1Hp56tYOINzpUel/WmhtNYrNS2KxdQ=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_0_dark.png
+SHA-256-Digest: +Fs2FXZwfNaw+hR8cn6d39dlm+TLoU9FKfq4rfInXKk=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_apply_apply__.png
+SHA-256-Digest: 459toerEkmkxy2fO7fmEni/r0nwwYiwY23Oe8hyF1cw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_3_teal.png
+SHA-256-Digest: cPZRAF+tm3Tp39fRV2eRSekosFJZ8dFHcdFYJPpaHQ8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_development.png
+SHA-256-Digest: DJz0kBuVrDTnd3ncKSgqiymqk1Woo9qewcd/0HiOGew=
+
+Name: assets/fonts/fonts.xml
+SHA-256-Digest: L4v8SlwUyESEgJHzP1wE9mGwO7+iZzmOVVQYywcY0Z4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_multiuser.png
+SHA-256-Digest: hQf3dkjho1X5ekIMWhGWcYpxB09b6obuebMZzYfdTcE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_2_dark.png
+SHA-256-Digest: nVuo+N3Nh+GgDyng0r0bxbhCfE5WZ2NOyHt0pJrwMpc=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_tag_customized__.9.png
+SHA-256-Digest: DEOZsm/tVqhYNAwWZXzf4i4vDh5CXzNK3eDk1of/lns=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_tab
+ _unselected_download.png
+SHA-256-Digest: bqeG37LltgExkSRYlpUcritz2asfPW2JOPYF86c7cCA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_4_light.png
+SHA-256-Digest: ucB+J3vnQT9wl9+PhfL+xxpEf9l22fHgJ6aodSC3Ecc=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quic
+ ktooltip_menu_popup.xml
+SHA-256-Digest: cla81uih/tesesxkyV/ms4GtLcyWUbzNTXB1lMzJCuQ=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quant
+ um_panel_bitmap__.9.png
+SHA-256-Digest: PtZ5cbPj/hYSLgXlagjIT1JKQDdQjutC3OmgV3DjiR4=
+
+Name: assets/overlays/com.android.dialer/res/color/abc_background_cach
+ e_hint_selector_material_dark.xml
+SHA-256-Digest: iEZJouYXbggIrITRJWw6a5ZcKXLJZPBqYCtrQJvfkdI=
+
+Name: assets/overlays/com.android.settings/res/color/single_button_pan
+ el_color.xml
+SHA-256-Digest: RItM7Q32CLNyEMTyWlptyMhsluqgyen3ZR6TuLH+OEU=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quant
+ um_panel_bitmap_squaretop.xml
+SHA-256-Digest: s8+gCzXtCg4EscwYWjocOP3Yrr1pE0yyrajMD8AkHmA=
+
+Name: assets/fonts/Roboto-Thin.ttf
+SHA-256-Digest: KENmna8DBzP2t8VBqY67/1zlwtjLrkI72NJ4o24Wk5k=
+
+Name: assets/overlays/android/res/drawable-xxhdpi/ic_action_account_ci
+ rcle.png
+SHA-256-Digest: eHsEUYnrmO6R1Czgd6Xc+OpS33vGqNRi8Cdso2JmrSw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_bluetooth2.png
+SHA-256-Digest: KwOCzp70NiGiazYb5CzZEkbqXgaM7j4dcCclqL0ve0Y=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable/divider_sh
+ adow_gradient_bottom.xml
+SHA-256-Digest: kN5YktjJqLlM6KxCuQUZbzOqZKMQ4nf19pQU4Q0cYv4=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: Ef3pb4iPAbtloqOaaqaclQKHgvtNpD+pC1NJAaM38aA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_0_light.png
+SHA-256-Digest: fhES8P1Ep767Zlgg3rOWnad92uBSZsZSrNDoyvKc3Ks=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_themepreview_bg__.9.png
+SHA-256-Digest: 6s2VsV/P26hvy8CUEpilDAaTZbgkRN3+8ZTACMcLvkc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_voice
+ _wakeup.png
+SHA-256-Digest: ulezQ7Qb+imOhZVPpR1OUI8i4ygk57vnf8gYEFZl2OI=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /media_sound_selector_stop.png
+SHA-256-Digest: myDOUacvHKbHI7kGw/I/r0GFtHQbzHrBWU2/O12s+Ig=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_action_customize.xml
+SHA-256-Digest: ySTGPF4zgzjoF2hGV6fJNE8KvEGulVxRHOC2ksXtcXA=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/bg_
+ qsb_lollipop__.9.png
+SHA-256-Digest: rlv1JgLXnRsi1n8LRfkOTVIEY6iBn078r+uNg+HzgjU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_im
+ aging.png
+SHA-256-Digest: E2rTzw+ACh0UrPWuKw8f1wuXOtsUI+zQNoyhBny/4tA=
+
+Name: assets/overlays/com.whatsapp/res/drawable/divider_gray.xml
+SHA-256-Digest: E66n9adH7jCl7hGdi4UnFeAEFn5tNlfnJ28tvvK+qBs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_0_light.png
+SHA-256-Digest: byAqQUv8xRpWXXJUNik5pvFY36vkIZrLTtraf13Gxno=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_2_teal.png
+SHA-256-Digest: e/RrvZrmFaOpH52wbzVLILcWGDkIlPyTvtsLhXPC3O4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ pointing_hid.png
+SHA-256-Digest: 6EMzNRF+11HLaddhkCO7IFAG92fefgTIig7fc7giQak=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _emptystate.png
+SHA-256-Digest: +uzmH+6K75VUS2LXO7x5XpMf3e23g23MH5jqMUOpIV8=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_themepreview_shadow__.9.png
+SHA-256-Digest: 1bW+N1eyG3wpBSEZWohp4xq3AwEYU1zlAwlVlQEaIRU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_1_dark.png
+SHA-256-Digest: wY7WJz+5phBRSqv2+n3OO4B50wZCt9QLV4QbmcVwt9o=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/bg_qs
+ b_lollipop.xml
+SHA-256-Digest: XO+UdIr7pid455+8nrSnQCbtSARK+Sk5R6oV96e+zmg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_sync.png
+SHA-256-Digest: QbAtcQS87Af+1GUbhT8r1HF3af0WMUvR+bj2ZBLmg+E=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_storage.png
+SHA-256-Digest: bl23NMPP2gDjBOwNHv5AkiVfka065WEF23bTOCFUIlI=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/qu
+ antum_panel_bitmap_searchbar.xml
+SHA-256-Digest: QLHeA04k6TGdYt3TFTXlfB3l/7Lvrzv+GDfrBpUIRfo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_h
+ eadphones_a2dp.png
+SHA-256-Digest: tYhlTV/Fsq2D5tCKDUe2strheH1cyK5i3XevwueqDQE=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/values/colo
+ rs.xml
+SHA-256-Digest: dTIPOsNcvvJgytdOkx4JyGqRck3wPusgUM7qn8X9wks=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /pgmarker_listed.png
+SHA-256-Digest: d75t4NvzbSC7J0PWAhdL5dL37jFQnL5He5n2ejmdoe0=
+
+Name: assets/overlays/android/res/drawable/switch_track_material.xml
+SHA-256-Digest: 5OEexMf1CSqYOXTq0IZGXhftMe++rxXGNFzNcOSeqMc=
+
+Name: assets/overlays/android/res/drawable/scrollbar_handle_material.x
+ ml
+SHA-256-Digest: 9XeY3VY0cQytXgNU1k/FbyDdL7lI1A4ahpI8JMQnneE=
+
+Name: assets/overlays/com.android.messaging/res/color/tab_text_color.x
+ ml
+SHA-256-Digest: 1ojLBFHJTpkiLIxoXXMKjhwUNrKBU4OwHSqnUarknmI=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/prima
+ ry_text_material_dark.xml
+SHA-256-Digest: LIQmazsVsURqZxyGajdYP2wKIzIw6efUShPRCA9vuNk=
+
+Name: assets/overlays/com.android.systemui/res/drawable-xxhdpi/brightn
+ ess_slider_icon.9.png
+SHA-256-Digest: SJAYqAjyue0xUurn3TAgSBTjd1L+K5GtLh1RV56XVMA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_la
+ ptop.png
+SHA-256-Digest: geLI1mpvQtJ4Cpx/6PulkRqTrqkFuUh7b3zB5lqTipc=
+
+Name: assets/overlays/android/res/drawable/popup_background_material.x
+ ml
+SHA-256-Digest: MjMLDIu2tpKghlClRFJuaB/LrK6bq9+cj2sF8APoVyw=
+
+Name: assets/overlays/org.cyanogenmod.audiofx/res/values/styles.xml
+SHA-256-Digest: 1H/3WUJA4lEd2BMoMeYBqozUEGUx2iyoBWOUi0MiO/c=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_applications.png
+SHA-256-Digest: Tfn8wcuK684K9r3ThjySbczSizB3z8psPQinSvr6Hhs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_4_dark.png
+SHA-256-Digest: tcXC32/iZTxsN1/HqlZscD2ty6e6DoVgIkbAOHH/UJU=
+
+Name: assets/overlays/com.android.systemui/res/drawable-xxhdpi/ic_sysb
+ ar_home_land.png
+SHA-256-Digest: AQNh2gPXqU9mo6KEuWUQmA8LiU62A7JHP2FBXlajzqg=
+
+Name: assets/overlays/com.android.gallery3d/res/values/styles.xml
+SHA-256-Digest: Mf9dR6nBwhnvZpgG6/QJlQ+Z6v4DlQ0CPqSTR5QaQvo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_3_teal.png
+SHA-256-Digest: L0T5zGPRR0gniGkCt/SqIaeTMGZVPE5qxtGwb3cBlFg=
+
+Name: assets/overlays/com.whatsapp/res/values/colors.xml
+SHA-256-Digest: yxnTjaBtZbc4Ru2Ut2QtpJRLzKz+PWlVFdQ6E1NDyw4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_i
+ maging.png
+SHA-256-Digest: 7DXNPPbPicKsbGPDuhusklEbwKphERogvruATrDNdeE=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/abc
+ _menu_hardkey_panel_mtrl_mult__.9.png
+SHA-256-Digest: 8A8p8wi4okIUo028fp3oMSECPF3CuvU+Aj8MIXCAEUs=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qui
+ cktooltip_menu_popup__.9.png
+SHA-256-Digest: 6wnZgxeXCo4OM0WfMhEz1ZnKhoFINhtBrhl2zVrUjR4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_accessibility.png
+SHA-256-Digest: hkEjndAh0kPSRwwT6SKpTNNISz0wkBaVn/kdqnM+pQI=
+
+Name: assets/bootanimation/bootanimation.zip
+SHA-256-Digest: K+TvL3UnsG8BOIxhBonmq2unJHY7vsJDlQf9ocYgTzU=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_primary_text
+ _disable_only_material_light.xml
+SHA-256-Digest: z4r4qAzXq7lIkqMZgJci1lpC/RmUvgJQDUmx3mG9sdQ=
+
+Name: assets/overlays/com.android.dialer/res/drawable-xxhdpi/img_confe
+ rence.png
+SHA-256-Digest: Qz050cqO6tF1aLmXDdpWHffqgsDe8ad4/6HeJYLlM6s=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_locks
+ creen_ime.png
+SHA-256-Digest: 1rEycm/a2a4r6+988cQTzXe1Tsj+CnpCgAb8XfOC9i4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_language.png
+SHA-256-Digest: 8ALgdDk++AuSqZOJLH+OVuBO9FS6c44VbWn70awV1AU=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/abc_primary_t
+ ext_material_light.xml
+SHA-256-Digest: r0QZTN3HIQbtkAuHiwm5A1AG/oSyNMtFV746T8cI8AY=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/bg_q
+ sb_lollipop__.9.png
+SHA-256-Digest: wh1PmFJ1fMJ0G/IePyamVTs4GjJJZoFLDLxVB5zRwyA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_2_light.png
+SHA-256-Digest: n76aau8Xj/cFemqie+T+0ww4eaGanYsZTXaGdXpdUjE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_1_light.png
+SHA-256-Digest: KpPGHp/eQabOJxa6ydZa9jnQuBSWJCnZAkiAhnThd6E=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/qua
+ ntum_panel_bitmap.xml
+SHA-256-Digest: o+XXZ7w7as/eX3WApwenaXP6DzLdQuFVZjS4qaapjoM=
+
+Name: assets/overlays/com.android.calculator2/res/drawable/pad_button_
+ background.xml
+SHA-256-Digest: JW0jFf1KeX2ppXAuyTAcCd9QxShElXO6XQKOsi2osDQ=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_sync.png
+SHA-256-Digest: a1kbhijO4mfrL0oW+xcapfiYQHQALW19hAmUmexBUn0=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/abc_p
+ rimary_text_material_light.xml
+SHA-256-Digest: texg+YKjt1vDD/qAHLbJShg4IE9QDvptMpxlccQKSBA=
+
+Name: assets/overlays/android/res/drawable-xxxhdpi/switch_track_mtrl_a
+ lpha.9.png
+SHA-256-Digest: LGEybPvC8V98fhbVvO0X1Cq4hhE8zsXzLJAZUTI/ESM=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_primary_text
+ _material_dark.xml
+SHA-256-Digest: texg+YKjt1vDD/qAHLbJShg4IE9QDvptMpxlccQKSBA=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/qu
+ antum_panel_bitmap_searchbar__.9.png
+SHA-256-Digest: e1DPgRw3GR0/cYEtYr3zzU5SO4o1aZY7idA4w8F9RVo=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/secon
+ dary_text_material_dark.xml
+SHA-256-Digest: 8HhrC8GdSvkxw/aVX8nUb12vY35BYv/XcPFQ7Kmw9oQ=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_more.png
+SHA-256-Digest: lZxGqIgwSU8I/dTq1UvfrAI1tyt39vr/IlPDe+98SNs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_2_dark.png
+SHA-256-Digest: CXlkPFg5e8XyGYNzM2xAXpbsF/iHNVKZbMVPDZ0+epw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_about.png
+SHA-256-Digest: pcgG6pcarG0UNowcG9L6yO4nMHJBGZd4olXJrbKMfEg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_battery.png
+SHA-256-Digest: /jelaD+olFXHJ4/242snBG4Cft0AEihV9ZTM+eiI21w=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_0_dark.png
+SHA-256-Digest: 8LihGA2LzqzEJRX3+Jt+aikERR6THDuQHLhloWx9ot4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_1_teal.png
+SHA-256-Digest: oiqfllnNZvrgp2q7pOsxw/dwQBZ05Prkp2Pdm7pvZt4=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/abc_
+ popup_background_mtrl_mult__.9.png
+SHA-256-Digest: su6uh+8UcmEnTs015xtzvwX3ooacsXTAWfRtWQ4H/Lg=
+
+Name: res/drawable-nodpi-v4/pink_screen1.png
+SHA-256-Digest: MtBy6V+slNVdiMwqEQgZ++8RUNfB5koaNj/HbRAq4FA=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/secondary_tex
+ t_material_light.xml
+SHA-256-Digest: KWTno2pc7X8niy38YT5nCNvjf2Zt8VCz8FD2sdgQ6Xw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_security.png
+SHA-256-Digest: 29w8+YOGV++DIntVDD4ZZdA3eJMhneAK2y+Sgq1xY4s=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_3_light.png
+SHA-256-Digest: 6GFODLj+1DhY40sgioeFb2eSondI9T4McAfR1WBDv1U=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_action_reset_enabled__.png
+SHA-256-Digest: MiKTZrwQsARI9yOlmaaDWOflXzxAA1gyeeaouIJX034=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/abc_
+ menu_hardkey_panel_mtrl_mult.xml
+SHA-256-Digest: WPu6eLGbOaQNd7ZHyhSt2yUIoXCl2q1Fg+VdK/pVGLc=
+
+Name: assets/overlays/android/res/values/styles.xml
+SHA-256-Digest: Fe8NlLlAH6Ycr3q1YsYvqqbKoNYZWuSSsni/7ri1jd8=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/abc_primary_t
+ ext_disable_only_material_light.xml
+SHA-256-Digest: z4r4qAzXq7lIkqMZgJci1lpC/RmUvgJQDUmx3mG9sdQ=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/md_
+ dialog_full.xml
+SHA-256-Digest: o5tMCyHwosYukYEYlEloh8TdpxYWbJ9/MBFjyGHhU+M=
+
+Name: assets/overlays/android/res/drawable-mdpi/ic_action_account_circ
+ le.png
+SHA-256-Digest: Fm3Rl5iMIWUKfQ1mA4PB1tiAxW4IfxdvNBcrs4CV8GY=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/abc_m
+ enu_hardkey_panel_mtrl_mult.xml
+SHA-256-Digest: WPu6eLGbOaQNd7ZHyhSt2yUIoXCl2q1Fg+VdK/pVGLc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_4_dark.png
+SHA-256-Digest: Ai0FoC0gn4f6FzfPV+LAGzZmgxREmf+nGSZwdqrPPGo=
+
+Name: assets/overlays/android/res/drawable/fastscroll_track_material.x
+ ml
+SHA-256-Digest: VhqmbJsfsV/C+deipejybdI49YXPUE2AMTRfGqVrmd8=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /tag_new.png
+SHA-256-Digest: C1HPA2KXT9/bkBWXOYzwNspmwX2vGhQd95wjKpMgiaM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_2_light.png
+SHA-256-Digest: gX10bqwgSDg1Ue07MTH8rNLmfL4dpSm/x3Hjlp5w/p8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_bluetooth2.png
+SHA-256-Digest: Jh5mD9tJSJNXGy8NpndJLMVC/2ZfPE50S4wS9tA+AEs=
+
+Name: assets/overlays/com.android.messaging/res/drawable/list_item_fon
+ t_primary.xml
+SHA-256-Digest: 5Bydv/dJhW2RUB49fM3lfjDQdVmYH48eI3a+2E+WBFo=
+
+Name: assets/overlays/com.android.settings/res/values/colors.xml
+SHA-256-Digest: 9FpP11OdrKxGZyGs6JkcL9QHGqrx2jSC5NyMxxbz3NY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_display_am.png
+SHA-256-Digest: I6Uk1yaeQxCEz3C5SYASaHW6yzB/ggom0XKZQf5yHXs=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/secondary_tex
+ t_material_dark.xml
+SHA-256-Digest: 8HhrC8GdSvkxw/aVX8nUb12vY35BYv/XcPFQ7Kmw9oQ=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_action_close.png
+SHA-256-Digest: BRQ2ZvGBuugUwr0PLITLNn7qOI2TLN1Um59hJKwRfik=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: uoy/r/Obq2lcQYs3WTw+UcIlntUweL/IbKPh2GPSWtI=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/abc_p
+ rimary_text_material_dark.xml
+SHA-256-Digest: texg+YKjt1vDD/qAHLbJShg4IE9QDvptMpxlccQKSBA=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_wpabsent.png
+SHA-256-Digest: 5XfFYxz9cPno34wI44+1CBKNTO+ELxG8GdLP43LLzoE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_2_light.png
+SHA-256-Digest: xAnuEYMEIJ9awLm86CaJkQUfzOO3VXkyREKJzIllIis=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_tab_
+ unselected_download.png
+SHA-256-Digest: 2MtP6OMUybxvXxHkpEmaw5zoMmRrzuAIIkJwLaaiZqo=
+
+Name: assets/overlays/android/res/drawable/ic_menu_moreoverflow_materi
+ al.xml
+SHA-256-Digest: mbDm1pL0eCXpbGAR0uKOsiOVvGIsbny1CzpOpVG2E9E=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_secondary_te
+ xt_material_dark.xml
+SHA-256-Digest: NW9/gvLSZpnkSfGKUeLVWG3kAo2nQUmJC4DSxvgVXuY=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_primary_text
+ _material_light.xml
+SHA-256-Digest: texg+YKjt1vDD/qAHLbJShg4IE9QDvptMpxlccQKSBA=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_action_reset_disabled.xml
+SHA-256-Digest: Tx76RSCv13aHXfQGbKR+3F4hstXlCeW6ZQK/GcGAnHE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_notification_drawer.png
+SHA-256-Digest: USsU8m0nuVSY74tLDSQUbfgo/++cpohkVSDbix+sIVk=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quant
+ um_panel_bitmap_searchbar__.9.png
+SHA-256-Digest: P59VL/I9rHn1hQIGwe33PLUfHPJzjzKBYsXwLPH/G00=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_home.png
+SHA-256-Digest: VmbSTvmKrYaGQNRAOxCPyy9wO/9lte31SPyQ45oEZ5I=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_po
+ inting_hid.png
+SHA-256-Digest: qkfGzUta9+UC+N3BH18Bo6UCMn998NeR6vjCfr+7ELg=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/values/styl
+ es.xml
+SHA-256-Digest: pHQHhp/6hYMtYh5aWcpZTMUMme/ryq0jMxjBn4X4iKg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_location.png
+SHA-256-Digest: 9QqmNqCEdwxOcvzvmm3XW68JGiiZF2vtkTHw0zZ5AfM=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /card_wallpapertoggled_bg.xml
+SHA-256-Digest: ngZnRwylC2JzV9YQUqLmHtRMrTAe6pV9t75rTSURBjM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_notifications.png
+SHA-256-Digest: J+Fw8pQzZsaL/DF71my1SKKBCHxYOlTTbM4OYej4ph4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_about.png
+SHA-256-Digest: 8U+WvH+LAqLJZZWB+icpMF3lXEhGPA1BFNXFAXAG3a4=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/abc_p
+ rimary_text_disable_only_material_dark.xml
+SHA-256-Digest: z4r4qAzXq7lIkqMZgJci1lpC/RmUvgJQDUmx3mG9sdQ=
+
+Name: assets/overlays/common/res/values/colors.xml
+SHA-256-Digest: RiyGK8N03j+j28qnjitJ3BepzHpjjBDhnlQsqt6vUeE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_sound.png
+SHA-256-Digest: EE9LAVlb0HEXNI/+mnEQILGfqF8ANacK+8l3kKK9C4o=
+
+Name: res/drawable-nodpi-v4/mossgreen_screen2.png
+SHA-256-Digest: I9pe/v3lcz7Qbu9H+vbTV9tdfoaKyFw+QCssJ9eLu1w=
+
+Name: assets/ringtones/Splash.ogg
+SHA-256-Digest: KPK/tjNn1NzwCKobQ4qxDXokei02LIX5GJb/YJfm0us=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_2_dark.png
+SHA-256-Digest: RGjjr0nBiu+i4YKMzU3BXEFNoMqyEIReyFGzl6wjRDk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_location.png
+SHA-256-Digest: nf1DXTzswH7EiOzqPgSc917+8SN21mnU1Kpyag0/h44=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/bg_q
+ sb_pill.xml
+SHA-256-Digest: JBYSeX1DV2sUSfViYclG6a64JWVAqlgQbxzoxlcB2mQ=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/color/prima
+ ry_text_material_light.xml
+SHA-256-Digest: 82e/TAT8VPi47UXKfgwftM4OvrXYwVdvIH6VcPh6fuc=
+
+Name: res/drawable-nodpi-v4/pink.png
+SHA-256-Digest: A94K+l9gFtgtFxFa5o4tOIZKhhFKoumoA998IFDggvM=
+
+Name: assets/overlays/android/res/drawable/scrubber_progress_horizonta
+ l_material.xml
+SHA-256-Digest: f8UUqqwBXrMTDPxqXj+AH2kIHq5SwpH/MjJom4ftxzA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_home.png
+SHA-256-Digest: i2Ba759Kg2Ao47DLOYbMpxWKrzBsZeiL72L0fFC1xQk=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/qu
+ antum_panel_bitmap_squaretop__.9.png
+SHA-256-Digest: 1AFliUC7BAlJyUYxY5kqmCgO7ZKFP9gUtyAjoLdoumw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_4_light.png
+SHA-256-Digest: 439wyPvPYXTalFknFhyVxWPH3q3pcL6vX8ogcDD/WdY=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/qu
+ antum_panel_bitmap.xml
+SHA-256-Digest: o+XXZ7w7as/eX3WApwenaXP6DzLdQuFVZjS4qaapjoM=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/md_d
+ ialog_full.xml
+SHA-256-Digest: o5tMCyHwosYukYEYlEloh8TdpxYWbJ9/MBFjyGHhU+M=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/bg_qs
+ b_lollipop__.9.png
+SHA-256-Digest: keD3xVsz+IGJpmrGEvssWHKkXN8mgM0y2dsfZ/abXIA=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_data_usage.png
+SHA-256-Digest: I66jeonICJT36qwIBtd7/Ww3MHKrhR1+7B1MH58iJm4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_wireless.png
+SHA-256-Digest: A2v5Oj7sXj94j51OFfO6KG42rVCFFTm27SM/7+4PuOU=
+
+Name: assets/overlays/android/res/drawable-xxxhdpi/off_button.9.png
+SHA-256-Digest: I7GeakPUt7gh1czsqL5r7Hyx6xxcq+db1EXv0cmRzy0=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_3_dark.png
+SHA-256-Digest: XOLk01w2QpPMMMBIQYXCjvedPqBnynKmVpVxBOXaNq4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_2_teal.png
+SHA-256-Digest: 6X9SbUXXPPdXyk+mLOh5Z27hPZknMUrbzUgRfmECANM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_4_light.png
+SHA-256-Digest: hhUMHQFQZHKFGgWxWQXrJNX1XeXu0kjfmt40S03JnTI=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxhdpi/abc
+ _menu_hardkey_panel_mtrl_mult.xml
+SHA-256-Digest: WPu6eLGbOaQNd7ZHyhSt2yUIoXCl2q1Fg+VdK/pVGLc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_bt_he
+ adset_hfp.png
+SHA-256-Digest: U2fvO5bT+se/Rswkh5nAt35nzro5+UPdbR8ep81NRpI=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ cellphone.png
+SHA-256-Digest: hznMe1ot1u52+rgd5NXmhQParmOVygd4oNmJ0f/tixE=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_wireless.png
+SHA-256-Digest: mXDpc9FkRwodGZLmGUEMyuRb0ggJwBzfhbB6axzf6rM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_2_teal.png
+SHA-256-Digest: 3fADtfSvr2iCAMWzytMoX6xSKmavac/aK3EVZrIWeKk=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/abc_p
+ opup_background_mtrl_mult__.9.png
+SHA-256-Digest: FjkXMu+gkrIUyhnwunQzHMbqzyYWJ14PGQSxr4az4T0=
+
+Name: assets/overlays/com.android.systemui/res/drawable-xxhdpi/ic_sysb
+ ar_recent.png
+SHA-256-Digest: w3/oUuAbs5CRyLkez33TzuRXw5xpV1Y2PP9nMwfdAxc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ signal_0_dark.png
+SHA-256-Digest: PrtcCebbwzeF8nna76X8Jyx7nyZoHqPbm+hdhDrPMDU=
+
+Name: assets/overlays/com.android.systemui/res/values/dimens.xml
+SHA-256-Digest: wXfVEBXfiHZ76WMN0JtIjNxSPyIR4WcIVg9Bjk484bM=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/md_di
+ alog_full.xml
+SHA-256-Digest: o5tMCyHwosYukYEYlEloh8TdpxYWbJ9/MBFjyGHhU+M=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_3_teal.png
+SHA-256-Digest: ucAniBqjLsY/SA93F383yDyEF6IG0bOXq/oXDInyzg0=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quick
+ tooltip_menu_popup__.9.png
+SHA-256-Digest: 3s20HvTF1rFR9517NQSzvDPZm44Bh7lxE2OJ4RIPEXo=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_button_shopthemes_pressed__.9.png
+SHA-256-Digest: BgsNdE3XP1691NRVqBviF/XChoHvojY2eP52HMkwYjo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_3_light.png
+SHA-256-Digest: /4m0FePUpD9WE7s5c0vDWPdxBJsztKNQrizVLUM3o10=
+
+Name: assets/notifications/Crystal.ogg
+SHA-256-Digest: FmNQG1NKm24Xv20IR9KxDMOyWyrhFw/4qWtFmnGVBEg=
+
+Name: assets/overlays/android/res/drawable-xxhdpi/scrubber_primary_mtr
+ l_alpha.9.png
+SHA-256-Digest: fMo+z3nqn1Zd/nJ4hGHh5t8I4YtpcJJVaZafKNv35CY=
+
+Name: assets/overlays/com.android.messaging/res/color/switch_thumb_mat
+ erial_light.xml
+SHA-256-Digest: pfXiX42QE6mCOEK6zqPhcNwEk69aAFskztheZNzl8H4=
+
+Name: assets/overlays/com.android.messaging/res/drawable/fab_new_messa
+ ge_bg.xml
+SHA-256-Digest: bJSeQcxskEtMA5GtJttMAUJ26v6K5mHaIDHRVyz2AlY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_dock.png
+SHA-256-Digest: cSpNv3D8NS2eOio2KPSQJFwfx2nGvDaWmgc7V8ri75E=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_apply_apply.xml
+SHA-256-Digest: pMHQgd1DGXntGCuQZc67Ya9PWxJXkcVekM9IGwxbtFc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_3_light.png
+SHA-256-Digest: xzwwA6V2x1afJgUzuZ1W0R4zYlxVs1HWSOur1HwRkqI=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_0_dark.png
+SHA-256-Digest: BFDKN9rIdtxCdcrkDcQGVsvrHusMY9iiyDmGQ6gkEP4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_0_teal.png
+SHA-256-Digest: Fw1+sa8v8O7mjkl+eUglNYsLcwM+XmNeudi8hP6qiMQ=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_action_customize__.png
+SHA-256-Digest: ySTLK9yLX2BLCQ/SnPSVWcuPcon7vLTZOM1g5gclLxg=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_date_time.png
+SHA-256-Digest: XASaId8aYlwV0MO0s5E7XjJ87jT4i5NtwwzLF/IKQXw=
+
+Name: assets/overlays/android/res/values/ids.xml
+SHA-256-Digest: xERvsrvmS3iKvASxheTy640hHU2FMQ2uAMobK7Z1TBs=
+
+Name: assets/overlays/android/res/drawable-xxhdpi/scrubber_track_mtrl_
+ alpha.9.png
+SHA-256-Digest: AWQnbknbxtNRuzMSuVrANIjqgkHyabkM95XsRA1RpMA=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_background_c
+ ache_hint_selector_material_dark.xml
+SHA-256-Digest: pnHWWsh2Q9qiLGzKq1hGxNr4bo54PvlAxeQEllLSvRw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_notification_drawer.png
+SHA-256-Digest: aaOf01g6E8qmEOMyZ9NlKYnFqq/GjZoG7im5XuwquMQ=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_notification_drawer.png
+SHA-256-Digest: 21l40xlmaG+NEhaEGrtvwiUid+lXS9dt/z+1irGYMqk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_security.png
+SHA-256-Digest: jDEeI6HE0PGKHN4bHkymh573NMBkS+nPo2iYIza/HdM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_print.png
+SHA-256-Digest: mP5DzFiwpCJpSZA9wte3wZkxeRw3NPub5S/tjLhoYR4=
+
+Name: assets/alarms/Running.ogg
+SHA-256-Digest: hOVXIc2YJ0Ef0SYa6Wr+IDcqC8ZGhZabLc4mj0o6wgY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_accounts.png
+SHA-256-Digest: JjpcddrwnPhkGo3Dwb1o01edUqC0nuCDkzN0rNZeQ60=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_4_teal.png
+SHA-256-Digest: NdW3z7HH9JXZ+V1gDhT6ZivwWIvP8hi0NxAk6lpbdg4=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_1_light.png
+SHA-256-Digest: n/Qvrirds7QAvj7njMatB3Dj00/R1Y6nIde7juopQHc=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: E9lDz0aFYlj2rnBKmKmh+ARJvbusXcQkj1huSwI9Zgg=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /ic_notify.png
+SHA-256-Digest: AafH3nMJ2/29JhvCuIXbY8jBrqAZr2cL63WzhUW9yys=
+
+Name: assets/overlays/com.android.systemui/res/drawable-xxhdpi/ic_sysb
+ ar_back_land.png
+SHA-256-Digest: Me9vfq30n+WPanJHYTRBXm22rTACY8nCS42zlVxiTT0=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_data_usage.png
+SHA-256-Digest: CuzZYpbNONkmjP4zGlh1ePUmlrNupGTYHi2ji/4Ukwk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_bt_c
+ onfig.png
+SHA-256-Digest: whhkW0432MBv4zKt5MdLv09fIbEKB5pYGm6MLlEMFoo=
+
+Name: res/raw/mossgreen.zip
+SHA-256-Digest: 5x+QEXdBUbvPpS2FMXANpTtvohUxSnxIgSkZ7wMWXVk=
+
+Name: assets/overlays/com.android.systemui/res/values/colors.xml
+SHA-256-Digest: 5cGZNJFUztxyaSA9vchd2mp9Sm6rbI4rWHF3Dy5IJ/8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_sync.png
+SHA-256-Digest: ThPWSbFODAcLfCKz7w6hafjK8UmdbYd/xEpX1lE9wHU=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/values-v21/
+ styles.xml
+SHA-256-Digest: uhDBcO6xxXefG0RuyaUQNj3UiOOFh5hC6+l1eI7nSho=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /img_loading_placeholder.png
+SHA-256-Digest: i9JHqAFwGU7lpfc25NQVQ12HnIUu17tb9Q1N/1fBsJk=
+
+Name: assets/overlays/de.robv.android.xposed.installer/res/drawable/ab
+ c_dialog_material_background.xml
+SHA-256-Digest: mdpI1QYtboYuDvAF5mIMrtUMEtp2KN3dJhjUy4gmWXk=
+
+Name: assets/overlays/com.android.dialer/res/color/popup_menu_color.xm
+ l
+SHA-256-Digest: 9gXDT0RnG3fPDSg8OmHUUp3aIYMFyf+JyiGb8aagdXk=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /pgmarker_visible.png
+SHA-256-Digest: O30Rn501JmpO+cGafs4cB5BXZ6Q0yMkXa/PlkzoDWfk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_date_time.png
+SHA-256-Digest: pXZOjzEQ0u9nYbQveriIXbhaAb5zBififNOX++tTGbc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_more.png
+SHA-256-Digest: Jg2Mmd7j5fUor4UFTbRNp2zAPZklq0IypQSq7tFFhJc=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_3_dark.png
+SHA-256-Digest: XwFT4bRs25xmaB3uhr5nXlGi4v+B0ik7vrsfYqprCbU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_4_teal.png
+SHA-256-Digest: 1sa3IQW3ExFU0JZMvsaHSu1BqQH9bu9I7PMfoNLvsWM=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /img_default_theme.png
+SHA-256-Digest: K2Bgy9wc4V3oK4vW6vMLmBZxw7nDpuK/PHnNUGfHZQo=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xxxhdpi/qu
+ antum_panel_bitmap_squaretop.xml
+SHA-256-Digest: s8+gCzXtCg4EscwYWjocOP3Yrr1pE0yyrajMD8AkHmA=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/bg_qs
+ b_pill__.9.png
+SHA-256-Digest: iJAT0g81u2PbEd3QjmKt+nmG8NFSn9PXDJNO7aS0smk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_about.png
+SHA-256-Digest: gch3Y7QX6nrq9FQ9RoP/raY9w9Ag7nvWoQrkLvgFa5c=
+
+Name: assets/overlays/android/res/drawable/ic_menu_share_material.xml
+SHA-256-Digest: 2ZGTadlJnO5EZDUPOtG6H68+My3vz4AbOBvVK+2MnQo=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_voic
+ e_wakeup.png
+SHA-256-Digest: GsX3hAQgMUVOLVqYU4AzAiET95/TpG9KBlFF1CoYg3g=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_tab_u
+ nselected_download.png
+SHA-256-Digest: 39TlYr69fhoo2PkIdPiua8VZAs7So4aXJnZuLD/QPms=
+
+Name: assets/overlays/android/res/drawable-xhdpi/ic_action_account_cir
+ cle.png
+SHA-256-Digest: NBIPo3leDSivAk27ei1GEpMMWJQKzahvVLls7fXCweY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_sett
+ ings_applications.png
+SHA-256-Digest: ZQt3BwBrrR8k41n0oOmBl301eLjW3lUn7ag2tFTd45I=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_nfc_payment_am.png
+SHA-256-Digest: 58v5L6kKAH2NRQ6xgEFQY+0oeD2JiZKvDJAWNLmhQeE=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-mdpi/quant
+ um_panel_bitmap_squaretop__.9.png
+SHA-256-Digest: ETNeM16pffxIk33H/hlhLepcX16Y7fc+Y2l/7Sg2JNY=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_menu_
+ add_dark.png
+SHA-256-Digest: oGltvKLXda4wJBfrSviQIAWlcwXjVTlUujWwgKwi8A8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_loc
+ kscreen_ime.png
+SHA-256-Digest: Do+MrBt5+CqWT8eVy30JZPW9DjdDRcvD0Ge3khQNC4k=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/color/abc_primary_t
+ ext_material_dark.xml
+SHA-256-Digest: r0QZTN3HIQbtkAuHiwm5A1AG/oSyNMtFV746T8cI8AY=
+
+Name: assets/wallpapers/wallpaper.png
+SHA-256-Digest: kBAy+KYzmtsqEVwEWAwJrjDShTwxKrnIsiUQ4w7TOjU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _signal_0_teal.png
+SHA-256-Digest: eE68I13VKWjfUna7OQSnVjVAvgd70AUK9eOUseQvsPY=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable-xhdpi/quic
+ ktooltip_menu_popup__.9.png
+SHA-256-Digest: f5iC4inDqkVLiJKUNMF39kzWG/Fc+Zw5qA4eBvPeLKI=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_0_light.png
+SHA-256-Digest: +QSSKWjjrLj4k5FX/XOJWzwKw9MOUkf6UyY2oO8Zmu0=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_print.png
+SHA-256-Digest: 6rvKzY3pT0WORn1f39liL7Rv5ksZQhAYxXwPJ6u5yjQ=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_setti
+ ngs_display_am.png
+SHA-256-Digest: mjztB7TIJEM/QKeV/bnVxW8XlV52weioPGy2Jds1/KM=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/values/colors.
+ xml
+SHA-256-Digest: x4/76z/emQdnXz2yyDgMx5ns0q4ll6M0Gi0N8gLYsy8=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_language.png
+SHA-256-Digest: QZwucRMTYfLuYntU6ODXAJzIVSEDqiTsWKEI+bgA4IU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_emptystate.png
+SHA-256-Digest: VY/6OLpk5Ke04I0EKMpOF1dIXnh2xEBDbySi5cSHEGU=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_bt_
+ headset_hfp.png
+SHA-256-Digest: 8XiUeRoILPVXbk02bdCySe4maWmr8GBFKXiHmMdJipw=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_sync_
+ green_holo.png
+SHA-256-Digest: uCsip4cpw7NzuM295cQTsrgL+sCSIz26/xNZIRPtIhM=
+
+Name: assets/overlays/com.android.settings/res/drawable-xhdpi/ic_wifi_
+ lock_signal_2_teal.png
+SHA-256-Digest: 3Th9pju9ubi05Ox1yoaZkDaIwk2uBfXCMBXl0Ji3q+Y=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_lock_signal_1_teal.png
+SHA-256-Digest: xyQicBF+D2ikE9WLaG6vL/3i7mbVeWTE3iryvd7CDwA=
+
+Name: assets/overlays/com.android.contacts/res/values/colors.xml
+SHA-256-Digest: IeGLdtiYxTQO9PKrvRj8QaNK3af7d40fZ30LPVShjhk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxhdpi/ic_wifi
+ _lock_signal_3_dark.png
+SHA-256-Digest: tar62UtEdUXlxIhx78poUi36Qia988E/qtayiYqVPLA=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /bg_button_shopthemes_focused__.9.png
+SHA-256-Digest: iwBV0cQKKeQjnw5oyKqSVBEKC1A69YB6Y7Ny9Sbgp38=
+
+Name: assets/overlays/android/res/drawable-xhdpi/toast_frame.9.png
+SHA-256-Digest: uS+9tYT/FcsXcjdewtogYiRIluZQIsxmge/BYOrPZzY=
+
+Name: assets/overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi
+ /media_sound_selector_preview.png
+SHA-256-Digest: 2/tB1tLqGrT72doy/m8yS4jsugvrTVrRx7nJLSY8Nvg=
+
+Name: assets/overlays/android/res/drawable-xxxhdpi/ic_action_account_c
+ ircle.png
+SHA-256-Digest: TIQardwshfCVDf2vxrF4OWsFBCGPJ8toyZL3DsPVBEs=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_wif
+ i_signal_2_dark.png
+SHA-256-Digest: X4eyIiuXybf511OC9gPUSyKxO0EGCsUdgy6P9e/G6NA=
+
+Name: assets/overlays/com.teslacoilsw.launcher/res/drawable/all_apps_s
+ earch_market_bg.xml
+SHA-256-Digest: gIvzqM1qunWfgYSw3L5qLu9nAhV1vwZbGIX5J9+hkw0=
+
+Name: assets/overlays/android/res/drawable/switch_thumb_material_anim.
+ xml
+SHA-256-Digest: A0X8GAonpIM+UGOpex97Y6O2U2DVzL1vAdMy1PR27pE=
+
+Name: assets/overlays/com.android.messaging/res/color/abc_background_c
+ ache_hint_selector_material_light.xml
+SHA-256-Digest: pnHWWsh2Q9qiLGzKq1hGxNr4bo54PvlAxeQEllLSvRw=
+
+Name: classes.dex
+SHA-256-Digest: ulourzDcMZmHj1PWdOtyYU2wWtdf+Nij0zgBoXd0YRk=
+
+Name: assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_set
+ tings_sound.png
+SHA-256-Digest: AIxWwsFkQCy74/oBPTgTAhB7kUgwWOVu5hfgOvdgchQ=
+
