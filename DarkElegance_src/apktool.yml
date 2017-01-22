@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: theme-debug.apk
+apkFileName: DarkElegance.apk
 compressionType: false
 doNotCompress:
 - arsc
@@ -16,7 +16,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.1.1-Black
+version: 2.2.2-Black
 versionInfo:
   versionCode: '1001'
   versionName: 1.0.1
