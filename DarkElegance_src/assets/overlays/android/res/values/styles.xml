@@ -2,28 +2,36 @@
 <resources xmlns="http://schemas.android.com/apk/res/android">
 
     <style name="Theme.Material" parent="@android:style/Theme.Material">
+        <!--item name="dialogBackground">@*common:color/bl</item-->
+        <!--item name="dialogBorder">@*common:color/common_color_alpha</item-->
+		<!--item name="android:windowBackground">@*common:color/bl</item-->
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
+        <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
         <item name="android:colorForeground">@*common:color/wh</item>
         <item name="android:fastScrollTextColor">@*common:color/wh</item>
-         <item name="android:colorEdgeEffect">@*common:color/sk</item>
+        <item name="android:colorEdgeEffect">@*common:color/sk</item>
     </style>
 
     <style name="Theme.Material.Light" parent="@android:style/Theme.Material.Light">
+		<!--item name="android:windowBackground">@*common:color/bl</item-->
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
+        <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
         <item name="android:colorForeground">@*common:color/wh</item>
         <item name="android:fastScrollTextColor">@*common:color/wh</item>
-         <item name="android:colorEdgeEffect">@*common:color/sk</item>
+        <item name="android:colorEdgeEffect">@*common:color/sk</item>
     </style>
 
     <style name="Theme.Material.Light.DarkActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
+		<!--item name="android:windowBackground">@*common:color/bl</item-->
         <item name="android:statusBarColor">@*common:color/bl</item>
         <item name="android:navigationBarColor">@*common:color/bl</item>
+        <!--item name="android:colorAccent">@*common:color/sk</item-->
         <item name="android:colorPrimary">@*common:color/bl</item>
         <item name="android:colorPrimaryDark">@*common:color/bl</item>
         <item name="android:colorForeground">@*common:color/wh</item>
@@ -31,13 +39,17 @@
         <item name="android:actionBarWidgetTheme">@null</item>
         <item name="android:actionBarPopupTheme">@android:style/ThemeOverlay.Material.Dark</item>
         <item name="android:actionBarStyle">@style/Widget.Material.ActionBar.Solid_2</item>
+        <item name="android:colorEdgeEffect">@*common:color/sk</item>
         <item name="android:fastScrollTextColor">@*common:color/wh</item>
-         <item name="android:colorEdgeEffect">@*common:color/sk</item>
     </style>
 
     <style name="ThemeOverlay.Material.Dark" parent="@android:style/ThemeOverlay.Material.Dark">
         <item name="android:colorForeground">@*common:color/sk</item>
         <item name="android:colorBackground">@*common:color/bl</item>
+        <!--item name="android:textColorPrimary">@*common:color/wh</item-->
+        <!--item name="android:textColorSecondary">@*common:color/sk</item-->
+        <!--item name="android:textColorTerciary">@*common:color/sk</item-->
+        <!--item name="android:textColorAlertDialogListItem">@*common:color/wh</item-->
     </style>
 
     <style name="Widget.Material.ActionBar.Solid_2" parent="@android:style/Widget.Material.ActionBar.Solid">
@@ -167,8 +179,8 @@
     <!--Power dialog thematization-->
     <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@android:style/Theme.Material">
         <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/wh</item>
-        <!--item name="android:textColorTertiary">@*common:color/wh</item-->
+        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:textColorTertiary">@*common:color/sk</item>
         <item name="android:colorBackground">@*common:color/bl</item>
         <!--item name="dialogBackground">@*common:color/bl</item-->
     </style>
