@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="bl">#ff050505</color>
-    <color name="bltr">#bf050505</color>
+    <color name="bl">#ff101010</color>
+    <color name="bltr">#bf101010</color>
     <color name="sk">#ff757575</color>
     <color name="sktr">#bf757575</color>
     <color name="gr">#ff252525</color>
