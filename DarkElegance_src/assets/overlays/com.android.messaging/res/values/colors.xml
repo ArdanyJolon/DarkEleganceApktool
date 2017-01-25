@@ -2,6 +2,7 @@
 <resources>
 
 	<!--backgrounds-->
+	<color name="windowBackground">@*common:color/bl</color>
 	<color name="background">@*common:color/bl</color>
     <color name="conversation_background">@*common:color/bl</color>
     <color name="archived_conversation_action_bar_background_color">@*common:color/bl</color>
