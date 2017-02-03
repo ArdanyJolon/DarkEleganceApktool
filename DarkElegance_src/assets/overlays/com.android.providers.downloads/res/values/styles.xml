@@ -4,7 +4,7 @@
         <item name="android:windowNoTitle">true</item>
 		<item name="android:background">@*common:color/bl</item>
         <item name="android:windowBackground">@*common:color/bl</item>
-        <item name="android:textColorPrimary">@*common:color/wh</item>
-        <item name="android:textColorSecondary">@*common:color/sk</item>
+        <item name="android:textColorPrimary">@*common:color/wht</item>
+        <item name="android:textColorSecondary">@*common:color/wht</item>
     </style>
 </resources>
