@@ -9,7 +9,7 @@
             <name>verdana</name>
         </nameset>
         <fileset>
-            <file>Roboto-Thin.ttf</file>
+            <file>RobotoCondensed-Light.ttf</file>
         </fileset>
     </family>
 </familyset>
