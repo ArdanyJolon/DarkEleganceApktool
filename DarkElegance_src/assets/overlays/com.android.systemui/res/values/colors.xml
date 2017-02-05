@@ -30,4 +30,11 @@
     <color name="primary_text_default_material_light">@*common:color/wh</color>
     <color name="secondary_text_default_material_light">@*common:color/sk</color-->
 
+	<color name="volume_settings_icon_color">@*common:color/sk</color>
+	<color name="volume_icon_color">@*common:color/sk</color>
+	<color name="segmented_buttons_background">@*common:color/bltr</color>
+	<color name="notification_legacy_background_color">@*common:color/bltr</color>
+	
+	
+	
 </resources>
