@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	
+	<drawable name="switch_thumb_material_anim">@drawable/switch_thumb_material_anim_on_off</drawable>	
+	<drawable name="switch_track_material">@drawable/switch_track_material_on_off</drawable>
 	<drawable name="divider_horizontal_holo_dark">@color/tr</drawable>   
     <drawable name="divider_vertical_bright">@color/tr</drawable>
 	<drawable name="divider_vertical_bright_opaque">@color/tr</drawable>
