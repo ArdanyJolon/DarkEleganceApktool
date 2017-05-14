@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="bl">#ff101010</color>
-    <color name="bltr">#bf101010</color>
-    <color name="sk">#ff757575</color>
-    <color name="sktr">#bf757575</color>
+    <color name="bl">#ff000000</color> 
+    <color name="bltr">#bf000000</color> 
+    <color name="sk">#ff0080A3</color>
+    <color name="sktr">#bf0080A3</color>
     <color name="gr">#ff252525</color>
     <color name="wh">#ffffffff</color>
 	<color name="wht">#ffcfcfcf</color>
@@ -14,19 +14,15 @@
     <color name="re">#ff8d0000</color>
     <color name="gre">#ff6f9800</color>
     <color name="ora">#ffd15900</color>
-    <color name="test1">#ffff4a00</color>
-    <color name="test2">#ffff0084</color>
-    <color name="test3">#ff774300</color>
-    <color name="test4">#ff9bd500</color>
-    <color name="test5">#ff746c37</color>
-    <color name="test6">#ff0014d6</color>
-    <color name="test7">#ff006e97</color>
-    <color name="test8">#ff4806b4</color>
-	<color name="test9">#ffd20019</color>
+    <color name="test1">#ffff4a00</color> <!--Color Naranja-->
+    <color name="test2">#ffff0084</color> <!--Color Rosa-->
+    <color name="test3">#ff774300</color> <!--Color Mostaza-->
+    <color name="test4">#ff9bd500</color> <!--Color Verde Lima-->
+    <color name="test5">#ff746c37</color> <!--Color Verde musgo-->
+    <color name="test6">#ff0014d6</color> <!--Color Azul Reflex-->
+    <color name="test7">#ff009783</color> <!--Color Aqua-->
+    <color name="test8">#ff4806b4</color> <!--Color Morado-->
+	<color name="test9">#ff851c28</color> <!--Color Corinto-->
 	
-
-
-
-
 
 </resources>
